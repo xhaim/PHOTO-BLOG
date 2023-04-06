@@ -1,0 +1,14 @@
+img {
+  margin-bottom: 15px; 
+  width: 30%; 
+ 
+}
+#cont {
+  padding: 1vh 0; 
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+
+
